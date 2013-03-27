@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.codehaus.groovy:groovy:1.8.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/applications/play-2.1.0/repository/cache/org.codehaus.groovy/groovy/jars/groovy-1.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: antlr:antlr:2.7.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/applications/play-2.1.0/repository/local/antlr/antlr/2.7.7/jars/antlr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

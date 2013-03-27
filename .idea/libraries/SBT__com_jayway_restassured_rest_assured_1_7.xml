@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.jayway.restassured:rest-assured:1.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/applications/play-2.1.0/repository/cache/com.jayway.restassured/rest-assured/jars/rest-assured-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+1) remplacer la doc Play par la doc du Jeu et du client
+2) finir le mapping Json, voir si annoation Jackson pourrait marcher : FAIT
+3) ecrire les test REST : FAIT
+4) intégrer des testsU de l'algo ? : SERA PAS FAIT
+5) voir pour mieux intégrer le projet dans idea, tjs des pbs de classpath, etrange : CORRIGE
+6) api key sur les services REST : FAIT en lisant la clé dans application.conf:application.secret
+7) generator de clé : PAS BESOIN
+
+
+http://ekino-fortress.herokuapp.com/game/identity
